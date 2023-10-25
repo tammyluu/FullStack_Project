@@ -1,1 +1,8 @@
 # FullStack_Project
+
+* Front-End
+   - Reactjs, Redux
+
+* Back-End :
+   - NodeJS, Express
+          
